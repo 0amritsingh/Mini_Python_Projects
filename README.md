@@ -1,7 +1,7 @@
 # Python_Projects
 These are the Python Projects that I had wrote during my python learning journey. These are mini projects that helps me to develop a proper understanding among Python.
 ***
-### Project from Course
+### Project from Notes
 ```
 Project 01.py
 Project 02.py
@@ -12,7 +12,7 @@ Project 16.py
 ```
 ###### And rest other Projects are Selfmade
 ***
-### Big Works
+### My own projects (big ones)
 ```
 Project 09.py
 Project 10.py
