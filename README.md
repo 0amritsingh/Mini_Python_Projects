@@ -12,7 +12,7 @@ Project 16.py
 ```
 ###### And rest other Projects are Selfmade
 ***
-### My own projects (big ones)
+### My own Projects (Some Big ones)
 ```
 Project 09.py
 Project 10.py
