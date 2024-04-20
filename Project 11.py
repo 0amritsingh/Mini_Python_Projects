@@ -1,4 +1,4 @@
-# Imulating Do-While Loop in Python:
+# Emulating Do-While Loop in Python:
 
 # do while loop just run the code at least once before riding into the loop condition.
 # do while loop doesn't excist in the pyhton 
