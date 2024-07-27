@@ -19,7 +19,7 @@ def peek():
     peek() if more in 'yY' else None
 while True:
     user = input('\n++++++++++++++++++++\nPress [1]: Push\nPress [2]: Pop\nPress [3]: Peek\nPress [4]: Display\nPress [5]: Exit\n~> ')
-    push() if user == '1' else pop() if user == '2' else peek() if user == '3' else print(f'\n{stack}') if user == '4' else exit() if user == '5' else print('\nERROR 101: Wrong input!')
+    push() if user == '1' else pop() if user == '2' else peek() if user == '3' else print(f'\nStack: {stack}') if user == '4' else exit() if user == '5' else print('\nERROR 101: Wrong input!')
 
 # online study matrial(theory/concept) of Stack: https://www.geeksforgeeks.org/stack-in-python
  
