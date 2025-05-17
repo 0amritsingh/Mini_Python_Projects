@@ -1,4 +1,4 @@
-# Word Index/Position Finder (in a particular sentance)
+# Word Index/Position Finder (in a particular sentance) [version: 0.1] 
 
 def indexing(word, sentance):
     list = []
